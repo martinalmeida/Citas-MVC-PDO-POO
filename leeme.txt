@@ -1,0 +1,4 @@
+USUARIO: andrea@gmail.com
+CONTRASEÑA:11111
+
+LA BASE DE DATOS SE LLAMA proyecto_final
